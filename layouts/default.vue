@@ -1,10 +1,10 @@
 <template>
-  <h2>Home</h2>
+    <Nuxt />
 </template>
 
 <script>
 export default {
-
+    
 }
 </script>
 
